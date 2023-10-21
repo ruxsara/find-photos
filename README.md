@@ -1,3 +1,15 @@
+# 😎 It is just a simple app to search specific photos based on keyword.
+
+# How to set up?
+Just clone and "npm i"
+
+# How does it work?
+Just type a keyword to see the related Images
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
