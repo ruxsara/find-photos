@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import SearchHeader from "./SearchHeader";
 import ImagesList from "./components/ImagesList";
+import {getPhotosByTerm} from './api/GetPhotosByTerm'
 
 function App() {
   const [images, setImages] = useState([]);
